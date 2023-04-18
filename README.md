@@ -1,6 +1,6 @@
 # Sports_Analytics_Guide
 
-A comprehensive guide to Sports Analytics with a focus on R and Python. Now all in one place, it includes tutorials, package links, cheatsheets, accounts to follow, books, modeling tutorials, research papers, apps, and much much more. It can be found here: 
+A comprehensive guide to Sports Analytics with a focus on R, Python, Tableau, and SQL. Now all in one place, it includes tutorials, package links, cheatsheets, accounts to follow, books, modeling tutorials, research papers, apps, and much much more. It can be found here: 
 
 https://docs.google.com/spreadsheets/d/1LPe8xYduoep9qCrNzBGdJHaHZ8dnmdHNnu7UXZKzawU/edit#gid=1995681519
 
